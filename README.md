@@ -65,6 +65,7 @@ Management	192.168.0.2	255.255.255.224
 Study	192.168.1.2	255.255.255.0
 Support	172.16.0.2	255.255.0.0
 serverPool	192.168.4.0	255.255.255.248
+
 Virtual-LAN with Firewall
 Three vlans were setup to delineate the internal network from internet traffic and DMZ. The following priority levels were set:
 Security measures with Firewall
