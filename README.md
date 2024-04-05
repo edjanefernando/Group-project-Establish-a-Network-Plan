@@ -33,7 +33,7 @@ We developed 2 different network plans and compared their functionalities: one w
 # Router network
 Physical connection: End devices for each sector were connected to a switch, similarly for a cluster of servers. These switches were connected to routers which route network traffic between them. The firewall was setup at the network terminal to inspect traffic in and out of the network. DMZ comprising the company's web server was isolated at the other end of the firewall.
 
-# Logical connection: Each sector was allotted a network IP address (see addressing table below). Dynamic addressing through DHCP was implemented for end devices except the servers.
+Logical connection: Each sector was allotted a network IP address (see addressing table below). Dynamic addressing through DHCP was implemented for end devices except the servers.
 
 Addressing table
 Name	Network	Subnet	VLAN
